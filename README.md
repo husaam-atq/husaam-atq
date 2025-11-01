@@ -43,5 +43,5 @@ Exploring further Python fundamentals through text mining and data manipulation 
 ## Skills
 Python | pandas | NumPy | matplotlib | scikit-learn | Financial Modelling | Risk & Portfolio Analytics  
 
-📫 **Contact:** [husaam.ateeq@gmail.com](mailto:husaam.ateeq@gmail.com)
+**Contact:** [husaam.ateeq@gmail.com](mailto:husaam.ateeq@gmail.com)
 
