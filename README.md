@@ -40,7 +40,7 @@ Exploring further Python fundamentals through text mining and data manipulation 
 - Parsed JSON-based datasets (Wikipedia/Twitter) for frequency analysis.  
 
 
-## 🧠 Skills
+## Skills
 Python | pandas | NumPy | matplotlib | scikit-learn | Financial Modelling | Risk & Portfolio Analytics  
 
 📫 **Contact:** [husaam.ateeq@gmail.com](mailto:husaam.ateeq@gmail.com)
