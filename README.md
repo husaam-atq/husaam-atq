@@ -1,47 +1,63 @@
-# Hi, I'm Husaam 👋  
-- MSc Data Science & Artificial Intelligence @ Queen Mary University of London.  
-- Time-qualified Chartered Accountant (ICAS).  
-- Interested in Quantitative Finance, Portfolio Analytics, Private Equity & Machine Learning.  
+# Hi, I'm Husaam 👋
+
+MSc Data Science & Artificial Intelligence @ Queen Mary University of London  
+Fully Qualified Chartered Accountant (ICAS)  
+Interested in Quantitative Finance, Systematic Trading, and Machine Learning  
+
+---
 
 ## About Me
-- Previously worked in Financial Services Audit at EY, covering insurance, broking, wealth & asset management, and banking clients.  
-- Now developing advanced data and quantitative skills through Python, statistics, and machine learning.  
-- Exploring how data-driven models can enhance portfolio optimisation, risk management, and trading strategies.
 
-## Selected Quantitative Projects  
+- Background in Financial Services (EY) working across banking, asset management, and private equity  
+- Experience analysing complex financial datasets and evaluating risk in regulated environments  
+- Currently developing quantitative models and trading strategies using Python, statistics, and machine learning  
+- Strong interest in alpha generation, market microstructure, and systematic investing  
 
-### 1. Moving Average Crossover Backtest  
-Developed a Python-based backtesting framework to compare a 20/50-day moving average strategy against a buy-and-hold benchmark.  
-- Calculated daily returns and cumulative strategy performance.  
-- Visualised crossover signals and portfolio equity curves.  
-- Tools: pandas, NumPy, matplotlib.  
+---
 
-### 2. Monte Carlo Stock Price Simulation  
-Implemented Monte Carlo simulations to model potential stock price paths over a trading year.  
-- Simulated stochastic processes with random drift and volatility.  
-- Analysed expected value and variance of returns.  
-- Tools: NumPy, matplotlib.  
+## Some Projects of Mine
 
-### 3. Value-at-Risk (VaR) Calculator  
-Built a risk analytics tool to estimate portfolio VaR using both historical and parametric methods.  
-- Plotted daily returns distributions with confidence thresholds.  
-- Compared model accuracy and tail risk estimations.  
-- Tools: pandas, NumPy, matplotlib, SciPy.  
+### 🔹 Market Making Strategy (QMUL Hackathon)
+- Developed an ML-based market making strategy in a live simulated trading environment  
+- Implemented fair value prediction, uncertainty-aware quoting, and inventory-based decision logic  
+- Team ranked just outside the top 10 in a multi-round competition  
+- Identified position sizing as the key driver of missed PnL in post-event analysis  
 
-### 4. Statistics Coursework 1 & 2  
-Conducted data exploration, regression, and residual analysis using real-world datasets.  
-- Evaluated correlation, model fit, and hypothesis testing.  
-- Developed and validated predictive regression models in Python.  
+---
 
-### 5. Ongoing Development: Programming Coursework (Text & Data Analysis)
-Currently working on small programming challenges and exploratory quant-finance exercises to deepen understanding of algorithmic modelling and data-driven investment analysis.
-Exploring further Python fundamentals through text mining and data manipulation tasks.  
-- Implemented anagram detection and Jaccard similarity algorithms.  
-- Parsed JSON-based datasets (Wikipedia/Twitter) for frequency analysis.  
+### 🔹 Systematic Equity Factor Backtester
+- Built a research framework for testing cross-sectional equity factor strategies  
+- Implemented long/short portfolio construction, transaction cost modelling, and turnover analysis  
+- Designed pipeline to reflect realistic systematic investing workflows  
 
+---
+
+### 🔹 Portfolio Risk Modelling (VaR & Monte Carlo)
+- Developed risk models using historical and parametric Value-at-Risk (99% confidence level)  
+- Built Monte Carlo simulations using Geometric Brownian Motion  
+- Analysed tail risk, return distributions, and portfolio volatility  
+
+---
 
 ## Skills
-Python | pandas | NumPy | matplotlib | scikit-learn | Financial Modelling | Risk & Portfolio Analytics  
 
-**Contact:** [husaam.ateeq@gmail.com](mailto:husaam.ateeq@gmail.com)
+**Programming:** Python (pandas, NumPy, matplotlib, scikit-learn, SciPy)  
+**Analytical Methods:** Statistical modelling, regression, hypothesis testing, backtesting  
+**Finance:** Portfolio analytics, risk modelling, valuation analysis  
+**Tools:** Jupyter, Google Colab, Excel, Git/GitHub  
 
+---
+
+## My Current Focus
+
+- Developing systematic trading strategies
+- IBM AI Agent Racing League  
+- Exploring factor models and portfolio construction techniques  
+- Applying machine learning to financial time series  
+
+---
+
+## 📫 Contact
+
+Email: husaam.ateeq@gmail.com  
+LinkedIn: https://www.linkedin.com/in/husaam-atq  
