@@ -2,7 +2,7 @@
 
 MSc Data Science & Artificial Intelligence @ Queen Mary University of London  
 Fully Qualified Chartered Accountant (ICAS)  
-Interested in Quantitative Finance, Systematic Trading, and Machine Learning  
+Interested in Private Equity, Quantitative Finance, Systematic Trading, and Machine Learning  
 
 ---
 
