@@ -14,7 +14,7 @@ Models a static £100.0m pool of 2,500 synthetic UK solar-energy loans from sche
 
 In the configured downside, 9.57% net collateral loss is absorbed without note loss; under the 26.43% stress loss, Class C is fully impaired, Class B loses 34.73% of principal and Class A principal and interest remain whole. Outputs include a formatted Excel model, Streamlit dashboard, reconciliation checks and a 52-test suite. All collateral and securities are fictional and illustrative.
 
-### [MSc Dissertation — Financial Transformers & Market Dynamics](https://github.com/husaam-atq/MSc-financial-transformer-market-dynamics)
+### [MSc Dissertation - Financial Transformers & Market Dynamics](https://github.com/husaam-atq/MSc-financial-transformer-market-dynamics)
 
 An adversarial multi-asset forecasting study asking whether strong pooled Transformer performance reflects temporal forecasting skill or persistent cross-sectional structure. The evaluation combines leakage-aware chronological splits, static priors, within-asset estimands, identity diagnostics, chronology perturbations and controlled simulation.
 
@@ -53,10 +53,10 @@ A public-data diligence workflow combining SEC EDGAR/XBRL fundamentals, public c
 
 ## Background
 
-- MSc Data Science & Artificial Intelligence — Queen Mary University of London
+- MSc Data Science & Artificial Intelligence - Queen Mary University of London
 - ICAS Chartered Accountant
 - Three years at EY Financial Services, with experience across private equity, asset management, international banking and insurance
-- CFA Level I Candidate — November 2026
+- CFA Level I Candidate - November 2026
 
 ## Contact
 
